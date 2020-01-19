@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gbbg2019.com/about/index.html</loc>
+    
+    <lastmod>2020-01-19T11:09:20.394Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gbbg2019.com/r0006/</loc>
     
     <lastmod>2020-01-19T10:05:38.595Z</lastmod>
@@ -425,13 +432,6 @@
     <loc>https://gbbg2019.com/basic/index.html</loc>
     
     <lastmod>2019-12-23T12:59:32.837Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gbbg2019.com/about/index.html</loc>
-    
-    <lastmod>2019-12-23T12:56:17.673Z</lastmod>
     
   </url>
   
