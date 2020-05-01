@@ -2,9 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gbbg2019.com/about/index.html</loc>
+    
+    <lastmod>2020-05-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gbbg2019.com/stock/index.html</loc>
+    
+    <lastmod>2020-05-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gbbg2019.com/basic/index.html</loc>
+    
+    <lastmod>2020-05-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gbbg2019.com/lab/index.html</loc>
+    
+    <lastmod>2020-05-01</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gbbg2019.com/china-insurance-compare/</loc>
     
-    <lastmod>2020-04-28</lastmod>
+    <lastmod>2020-05-01</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gbbg2019.com/china-stock-valuation20200501/</loc>
+    
+    <lastmod>2020-04-30</lastmod>
     
   </url>
   
@@ -37,14 +72,7 @@
   </url>
   
   <url>
-    <loc>https://gbbg2019.com/stock/index.html</loc>
-    
-    <lastmod>2020-03-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gbbg2019.com/lab/index.html</loc>
+    <loc>https://gbbg2019.com/china-main-index/</loc>
     
     <lastmod>2020-03-24</lastmod>
     
@@ -52,13 +80,6 @@
   
   <url>
     <loc>https://gbbg2019.com/china-stock-component/</loc>
-    
-    <lastmod>2020-03-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gbbg2019.com/china-main-index/</loc>
     
     <lastmod>2020-03-21</lastmod>
     
@@ -492,13 +513,6 @@
   </url>
   
   <url>
-    <loc>https://gbbg2019.com/basic/index.html</loc>
-    
-    <lastmod>2020-02-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://gbbg2019.com/finance/index.html</loc>
     
     <lastmod>2020-02-13</lastmod>
@@ -542,13 +556,6 @@
   
   <url>
     <loc>https://gbbg2019.com/search/index.html</loc>
-    
-    <lastmod>2020-01-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gbbg2019.com/about/index.html</loc>
     
     <lastmod>2020-01-20</lastmod>
     
