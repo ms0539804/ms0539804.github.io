@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://gbbg2019.com/stock/index.html</loc>
-    
-    <lastmod>2020-09-22</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://gbbg2019.com/china-stock-valuation20200915/</loc>
     
     <lastmod>2020-09-22</lastmod>
@@ -17,6 +10,20 @@
   
   <url>
     <loc>https://gbbg2019.com/china-stockapp-recommend/</loc>
+    
+    <lastmod>2020-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gbbg2019.com/china-open-account/</loc>
+    
+    <lastmod>2020-09-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gbbg2019.com/stock/index.html</loc>
     
     <lastmod>2020-09-22</lastmod>
     
@@ -619,13 +626,6 @@
   
   <url>
     <loc>https://gbbg2019.com/china-stock-valuation20191215/</loc>
-    
-    <lastmod>2020-02-14</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gbbg2019.com/china-open-account/</loc>
     
     <lastmod>2020-02-14</lastmod>
     
