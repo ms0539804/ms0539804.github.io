@@ -1586,6 +1586,24 @@
             
             <tag> H股 </tag>
             
+            <tag> N股 </tag>
+            
+            <tag> S股 </tag>
+            
+            <tag> P股 </tag>
+            
+            <tag> 大盤股 </tag>
+            
+            <tag> 中盤股 </tag>
+            
+            <tag> 小盤股 </tag>
+            
+            <tag> 白馬股 </tag>
+            
+            <tag> 紅籌股 </tag>
+            
+            <tag> 藍籌股 </tag>
+            
             <tag> 大陸股市介紹 </tag>
             
             <tag> 中國股票怎麼買 </tag>
@@ -1607,24 +1625,6 @@
             <tag> 交易時間 </tag>
             
             <tag> 交易規則 </tag>
-            
-            <tag> N股 </tag>
-            
-            <tag> S股 </tag>
-            
-            <tag> 大盤股 </tag>
-            
-            <tag> 中盤股 </tag>
-            
-            <tag> 小盤股 </tag>
-            
-            <tag> 白馬股 </tag>
-            
-            <tag> 紅籌股 </tag>
-            
-            <tag> 藍籌股 </tag>
-            
-            <tag> P股 </tag>
             
         </tags>
       
@@ -2420,9 +2420,9 @@
       
         <tags>
             
-            <tag> 趨勢 </tag>
-            
             <tag> 股市 </tag>
+            
+            <tag> 趨勢 </tag>
             
             <tag> 科斯托蘭尼 </tag>
             
@@ -2720,11 +2720,11 @@
       
         <tags>
             
+            <tag> 財富自由 </tag>
+            
             <tag> 富爸爸窮爸爸 </tag>
             
             <tag> 現金流 </tag>
-            
-            <tag> 財富自由 </tag>
             
         </tags>
       
