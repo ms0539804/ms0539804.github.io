@@ -112,19 +112,25 @@
       <category term="2.1投資前必看" scheme="https://gbbg2019.com/categories/2-%E6%8A%95%E8%B3%87%E5%85%A5%E9%96%80/2-1%E6%8A%95%E8%B3%87%E5%89%8D%E5%BF%85%E7%9C%8B/"/>
     
     
-      <category term="被動投資" scheme="https://gbbg2019.com/tags/%E8%A2%AB%E5%8B%95%E6%8A%95%E8%B3%87/"/>
-    
-      <category term="被動投資基金有哪些" scheme="https://gbbg2019.com/tags/%E8%A2%AB%E5%8B%95%E6%8A%95%E8%B3%87%E5%9F%BA%E9%87%91%E6%9C%89%E5%93%AA%E4%BA%9B/"/>
+      <category term="youtube" scheme="https://gbbg2019.com/tags/youtube/"/>
     
       <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
-      <category term="被動投資泡沫" scheme="https://gbbg2019.com/tags/%E8%A2%AB%E5%8B%95%E6%8A%95%E8%B3%87%E6%B3%A1%E6%B2%AB/"/>
+      <category term="陸股" scheme="https://gbbg2019.com/tags/%E9%99%B8%E8%82%A1/"/>
     
-      <category term="被動投資意思" scheme="https://gbbg2019.com/tags/%E8%A2%AB%E5%8B%95%E6%8A%95%E8%B3%87%E6%84%8F%E6%80%9D/"/>
+      <category term="美股" scheme="https://gbbg2019.com/tags/%E7%BE%8E%E8%82%A1/"/>
     
       <category term="40" scheme="https://gbbg2019.com/tags/40/"/>
     
       <category term="46" scheme="https://gbbg2019.com/tags/46/"/>
+    
+      <category term="被動投資" scheme="https://gbbg2019.com/tags/%E8%A2%AB%E5%8B%95%E6%8A%95%E8%B3%87/"/>
+    
+      <category term="被動投資基金有哪些" scheme="https://gbbg2019.com/tags/%E8%A2%AB%E5%8B%95%E6%8A%95%E8%B3%87%E5%9F%BA%E9%87%91%E6%9C%89%E5%93%AA%E4%BA%9B/"/>
+    
+      <category term="被動投資泡沫" scheme="https://gbbg2019.com/tags/%E8%A2%AB%E5%8B%95%E6%8A%95%E8%B3%87%E6%B3%A1%E6%B2%AB/"/>
+    
+      <category term="被動投資意思" scheme="https://gbbg2019.com/tags/%E8%A2%AB%E5%8B%95%E6%8A%95%E8%B3%87%E6%84%8F%E6%80%9D/"/>
     
       <category term="柴鼠兄弟" scheme="https://gbbg2019.com/tags/%E6%9F%B4%E9%BC%A0%E5%85%84%E5%BC%9F/"/>
     
@@ -142,19 +148,13 @@
     
       <category term="回測工具" scheme="https://gbbg2019.com/tags/%E5%9B%9E%E6%B8%AC%E5%B7%A5%E5%85%B7/"/>
     
-      <category term="美股" scheme="https://gbbg2019.com/tags/%E7%BE%8E%E8%82%A1/"/>
-    
       <category term="台股" scheme="https://gbbg2019.com/tags/%E5%8F%B0%E8%82%A1/"/>
-    
-      <category term="陸股" scheme="https://gbbg2019.com/tags/%E9%99%B8%E8%82%A1/"/>
     
       <category term="ETF泡沫" scheme="https://gbbg2019.com/tags/ETF%E6%B3%A1%E6%B2%AB/"/>
     
       <category term="被動收入" scheme="https://gbbg2019.com/tags/%E8%A2%AB%E5%8B%95%E6%94%B6%E5%85%A5/"/>
     
       <category term="存股" scheme="https://gbbg2019.com/tags/%E5%AD%98%E8%82%A1/"/>
-    
-      <category term="youtube" scheme="https://gbbg2019.com/tags/youtube/"/>
     
   </entry>
   
@@ -179,8 +179,6 @@
       <category term="4.1陸股大盤數據" scheme="https://gbbg2019.com/categories/4-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/4-1%E9%99%B8%E8%82%A1%E5%A4%A7%E7%9B%A4%E6%95%B8%E6%93%9A/"/>
     
     
-      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
-    
       <category term="投資" scheme="https://gbbg2019.com/tags/%E6%8A%95%E8%B3%87/"/>
     
       <category term="大陸股市" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82/"/>
@@ -192,6 +190,8 @@
       <category term="中國" scheme="https://gbbg2019.com/tags/%E4%B8%AD%E5%9C%8B/"/>
     
       <category term="大陸" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8/"/>
+    
+      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
       <category term="A股" scheme="https://gbbg2019.com/tags/A%E8%82%A1/"/>
     
@@ -244,15 +244,11 @@
       <category term="3.2海外投資" scheme="https://gbbg2019.com/categories/3-%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86/3-2%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B3%87/"/>
     
     
-      <category term="美股" scheme="https://gbbg2019.com/tags/%E7%BE%8E%E8%82%A1/"/>
-    
       <category term="youtube" scheme="https://gbbg2019.com/tags/youtube/"/>
     
       <category term="2020" scheme="https://gbbg2019.com/tags/2020/"/>
     
       <category term="2021" scheme="https://gbbg2019.com/tags/2021/"/>
-    
-      <category term="推薦" scheme="https://gbbg2019.com/tags/%E6%8E%A8%E8%96%A6/"/>
     
       <category term="Firstrade" scheme="https://gbbg2019.com/tags/Firstrade/"/>
     
@@ -272,6 +268,8 @@
     
       <category term="如何開美股帳戶" scheme="https://gbbg2019.com/tags/%E5%A6%82%E4%BD%95%E9%96%8B%E7%BE%8E%E8%82%A1%E5%B8%B3%E6%88%B6/"/>
     
+      <category term="美股" scheme="https://gbbg2019.com/tags/%E7%BE%8E%E8%82%A1/"/>
+    
       <category term="美股開戶" scheme="https://gbbg2019.com/tags/%E7%BE%8E%E8%82%A1%E9%96%8B%E6%88%B6/"/>
     
       <category term="Firstrade開戶" scheme="https://gbbg2019.com/tags/Firstrade%E9%96%8B%E6%88%B6/"/>
@@ -285,6 +283,8 @@
       <category term="線上開戶" scheme="https://gbbg2019.com/tags/%E7%B7%9A%E4%B8%8A%E9%96%8B%E6%88%B6/"/>
     
       <category term="美股開戶推薦" scheme="https://gbbg2019.com/tags/%E7%BE%8E%E8%82%A1%E9%96%8B%E6%88%B6%E6%8E%A8%E8%96%A6/"/>
+    
+      <category term="推薦" scheme="https://gbbg2019.com/tags/%E6%8E%A8%E8%96%A6/"/>
     
   </entry>
   
@@ -380,8 +380,6 @@
       <category term="4.1陸股大盤數據" scheme="https://gbbg2019.com/categories/4-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/4-1%E9%99%B8%E8%82%A1%E5%A4%A7%E7%9B%A4%E6%95%B8%E6%93%9A/"/>
     
     
-      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
-    
       <category term="投資" scheme="https://gbbg2019.com/tags/%E6%8A%95%E8%B3%87/"/>
     
       <category term="大陸股市" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82/"/>
@@ -393,6 +391,8 @@
       <category term="中國" scheme="https://gbbg2019.com/tags/%E4%B8%AD%E5%9C%8B/"/>
     
       <category term="大陸" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8/"/>
+    
+      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
       <category term="A股" scheme="https://gbbg2019.com/tags/A%E8%82%A1/"/>
     
@@ -526,8 +526,6 @@
       <category term="4.1陸股大盤數據" scheme="https://gbbg2019.com/categories/4-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/4-1%E9%99%B8%E8%82%A1%E5%A4%A7%E7%9B%A4%E6%95%B8%E6%93%9A/"/>
     
     
-      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
-    
       <category term="投資" scheme="https://gbbg2019.com/tags/%E6%8A%95%E8%B3%87/"/>
     
       <category term="大陸股市" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82/"/>
@@ -539,6 +537,8 @@
       <category term="中國" scheme="https://gbbg2019.com/tags/%E4%B8%AD%E5%9C%8B/"/>
     
       <category term="大陸" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8/"/>
+    
+      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
       <category term="A股" scheme="https://gbbg2019.com/tags/A%E8%82%A1/"/>
     
@@ -640,8 +640,6 @@
       <category term="3.2海外投資" scheme="https://gbbg2019.com/categories/3-%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86/3-2%E6%B5%B7%E5%A4%96%E6%8A%95%E8%B3%87/"/>
     
     
-      <category term="美股" scheme="https://gbbg2019.com/tags/%E7%BE%8E%E8%82%A1/"/>
-    
       <category term="入門" scheme="https://gbbg2019.com/tags/%E5%85%A5%E9%96%80/"/>
     
       <category term="新手" scheme="https://gbbg2019.com/tags/%E6%96%B0%E6%89%8B/"/>
@@ -652,17 +650,19 @@
     
       <category term="陸股ETF" scheme="https://gbbg2019.com/tags/%E9%99%B8%E8%82%A1ETF/"/>
     
-      <category term="etf" scheme="https://gbbg2019.com/tags/etf/"/>
-    
-      <category term="比較" scheme="https://gbbg2019.com/tags/%E6%AF%94%E8%BC%83/"/>
-    
       <category term="Firstrade" scheme="https://gbbg2019.com/tags/Firstrade/"/>
     
       <category term="第一證券" scheme="https://gbbg2019.com/tags/%E7%AC%AC%E4%B8%80%E8%AD%89%E5%88%B8/"/>
     
       <category term="開戶" scheme="https://gbbg2019.com/tags/%E9%96%8B%E6%88%B6/"/>
     
+      <category term="美股" scheme="https://gbbg2019.com/tags/%E7%BE%8E%E8%82%A1/"/>
+    
       <category term="美股開戶" scheme="https://gbbg2019.com/tags/%E7%BE%8E%E8%82%A1%E9%96%8B%E6%88%B6/"/>
+    
+      <category term="etf" scheme="https://gbbg2019.com/tags/etf/"/>
+    
+      <category term="比較" scheme="https://gbbg2019.com/tags/%E6%AF%94%E8%BC%83/"/>
     
       <category term="海外證券" scheme="https://gbbg2019.com/tags/%E6%B5%B7%E5%A4%96%E8%AD%89%E5%88%B8/"/>
     
@@ -753,8 +753,6 @@
       <category term="4.1陸股大盤數據" scheme="https://gbbg2019.com/categories/4-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/4-1%E9%99%B8%E8%82%A1%E5%A4%A7%E7%9B%A4%E6%95%B8%E6%93%9A/"/>
     
     
-      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
-    
       <category term="投資" scheme="https://gbbg2019.com/tags/%E6%8A%95%E8%B3%87/"/>
     
       <category term="大陸股市" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82/"/>
@@ -766,6 +764,8 @@
       <category term="中國" scheme="https://gbbg2019.com/tags/%E4%B8%AD%E5%9C%8B/"/>
     
       <category term="大陸" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8/"/>
+    
+      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
       <category term="A股" scheme="https://gbbg2019.com/tags/A%E8%82%A1/"/>
     
@@ -933,6 +933,8 @@
     
       <category term="2021" scheme="https://gbbg2019.com/tags/2021/"/>
     
+      <category term="推薦" scheme="https://gbbg2019.com/tags/%E6%8E%A8%E8%96%A6/"/>
+    
       <category term="ETF書" scheme="https://gbbg2019.com/tags/ETF%E6%9B%B8/"/>
     
       <category term="etf書籍推薦" scheme="https://gbbg2019.com/tags/etf%E6%9B%B8%E7%B1%8D%E6%8E%A8%E8%96%A6/"/>
@@ -948,8 +950,6 @@
       <category term="投資書" scheme="https://gbbg2019.com/tags/%E6%8A%95%E8%B3%87%E6%9B%B8/"/>
     
       <category term="買etf" scheme="https://gbbg2019.com/tags/%E8%B2%B7etf/"/>
-    
-      <category term="推薦" scheme="https://gbbg2019.com/tags/%E6%8E%A8%E8%96%A6/"/>
     
       <category term="基金理財" scheme="https://gbbg2019.com/tags/%E5%9F%BA%E9%87%91%E7%90%86%E8%B2%A1/"/>
     
@@ -992,8 +992,6 @@
       <category term="4.1陸股大盤數據" scheme="https://gbbg2019.com/categories/4-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/4-1%E9%99%B8%E8%82%A1%E5%A4%A7%E7%9B%A4%E6%95%B8%E6%93%9A/"/>
     
     
-      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
-    
       <category term="投資" scheme="https://gbbg2019.com/tags/%E6%8A%95%E8%B3%87/"/>
     
       <category term="大陸股市" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82/"/>
@@ -1005,6 +1003,8 @@
       <category term="中國" scheme="https://gbbg2019.com/tags/%E4%B8%AD%E5%9C%8B/"/>
     
       <category term="大陸" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8/"/>
+    
+      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
       <category term="A股" scheme="https://gbbg2019.com/tags/A%E8%82%A1/"/>
     
@@ -1057,8 +1057,6 @@
       <category term="3.1陸股投資" scheme="https://gbbg2019.com/categories/3-%E6%8A%95%E8%B3%87%E7%AE%A1%E7%90%86/3-1%E9%99%B8%E8%82%A1%E6%8A%95%E8%B3%87/"/>
     
     
-      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
-    
       <category term="大陸股市" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82/"/>
     
       <category term="大陸股市分析" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82%E5%88%86%E6%9E%90/"/>
@@ -1098,6 +1096,8 @@
       <category term="中國" scheme="https://gbbg2019.com/tags/%E4%B8%AD%E5%9C%8B/"/>
     
       <category term="大陸" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8/"/>
+    
+      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
       <category term="A股" scheme="https://gbbg2019.com/tags/A%E8%82%A1/"/>
     
@@ -1150,8 +1150,6 @@
       <category term="4.1陸股大盤數據" scheme="https://gbbg2019.com/categories/4-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/4-1%E9%99%B8%E8%82%A1%E5%A4%A7%E7%9B%A4%E6%95%B8%E6%93%9A/"/>
     
     
-      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
-    
       <category term="投資" scheme="https://gbbg2019.com/tags/%E6%8A%95%E8%B3%87/"/>
     
       <category term="大陸股市" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82/"/>
@@ -1163,6 +1161,8 @@
       <category term="中國" scheme="https://gbbg2019.com/tags/%E4%B8%AD%E5%9C%8B/"/>
     
       <category term="大陸" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8/"/>
+    
+      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
       <category term="A股" scheme="https://gbbg2019.com/tags/A%E8%82%A1/"/>
     
@@ -1215,8 +1215,6 @@
       <category term="4.1陸股大盤數據" scheme="https://gbbg2019.com/categories/4-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/4-1%E9%99%B8%E8%82%A1%E5%A4%A7%E7%9B%A4%E6%95%B8%E6%93%9A/"/>
     
     
-      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
-    
       <category term="投資" scheme="https://gbbg2019.com/tags/%E6%8A%95%E8%B3%87/"/>
     
       <category term="大陸股市" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82/"/>
@@ -1228,6 +1226,8 @@
       <category term="中國" scheme="https://gbbg2019.com/tags/%E4%B8%AD%E5%9C%8B/"/>
     
       <category term="大陸" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8/"/>
+    
+      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
       <category term="A股" scheme="https://gbbg2019.com/tags/A%E8%82%A1/"/>
     
@@ -1375,8 +1375,6 @@
       <category term="4.1陸股大盤數據" scheme="https://gbbg2019.com/categories/4-%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90/4-1%E9%99%B8%E8%82%A1%E5%A4%A7%E7%9B%A4%E6%95%B8%E6%93%9A/"/>
     
     
-      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
-    
       <category term="投資" scheme="https://gbbg2019.com/tags/%E6%8A%95%E8%B3%87/"/>
     
       <category term="大陸股市" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8%E8%82%A1%E5%B8%82/"/>
@@ -1388,6 +1386,8 @@
       <category term="中國" scheme="https://gbbg2019.com/tags/%E4%B8%AD%E5%9C%8B/"/>
     
       <category term="大陸" scheme="https://gbbg2019.com/tags/%E5%A4%A7%E9%99%B8/"/>
+    
+      <category term="ETF" scheme="https://gbbg2019.com/tags/ETF/"/>
     
       <category term="A股" scheme="https://gbbg2019.com/tags/A%E8%82%A1/"/>
     
